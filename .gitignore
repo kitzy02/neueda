@@ -1,0 +1,5 @@
+node_modules/ 
+*.log 
+secret.txt 
+ECHO is on.
+not_to_add.txt 
